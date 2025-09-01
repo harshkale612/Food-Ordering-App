@@ -12,7 +12,7 @@ import React from "react";
 //       {/* <br />
 //       <User  name={"Harsh (fuctional)"} /> */}
 //       <br />
-//       <Userclass name={"Harsh (class)"} location={"Dehradun (class)"} />
+//       <Userclass name={"Harsh (class)"} location={"Pandharpur(class)"} />
 //     </div>
 //   );
 // };

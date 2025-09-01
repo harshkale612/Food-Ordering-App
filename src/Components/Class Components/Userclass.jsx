@@ -26,7 +26,7 @@ class Userclass extends React.Component {
         </button>
         {/* <h2>Count : {count2}</h2> */}
         <h2>Location : {location} </h2>
-        <h3>contact : @akshaymarch7</h3>
+        <h3>contact : @harshkale612</h3>
       </div>
     );
   }

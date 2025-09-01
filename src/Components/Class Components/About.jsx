@@ -29,7 +29,7 @@ class About extends React.Component {
   }
 
   async componentDidMount() {
-    const data = await fetch(`https://api.github.com/users/akshaymarch7`);
+    const data = await fetch(`https://api.github.com/users/harshkale612`);
     const json = await data.json();
 
     this.setState({

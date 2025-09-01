@@ -10,9 +10,9 @@ import React from "react";
 //       <br />
 //       <h2>Everyones favourite food app</h2>
 //       {/* <br />
-//       <User  name={"Akshay (fuctional)"} /> */}
+//       <User  name={"Harsh (fuctional)"} /> */}
 //       <br />
-//       <Userclass name={"Akshay (class)"} location={"Dehradun (class)"} />
+//       <Userclass name={"Harsh (class)"} location={"Dehradun (class)"} />
 //     </div>
 //   );
 // };

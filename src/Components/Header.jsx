@@ -61,14 +61,14 @@ const Header = () => {
               Grocery
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               to="/"
               className="px-4 py-2 rounded-lg hover:bg-yellow-100 transition"
             >
               Cart
             </Link>
-          </li>
+          </li> */}
 
           <li>
             <button

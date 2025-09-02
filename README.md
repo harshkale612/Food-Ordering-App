@@ -1,4 +1,4 @@
-# 🍴 Harsh Food
+# Harsh Food
 
 ⚠️ **Important:** To avoid **CORS policy errors** while running this project locally,  
 please install and enable the **Allow CORS: Access-Control-Allow-Origin**  browser extention and 

@@ -48,8 +48,8 @@ Follow these steps to set up the project on your machine:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/harsh-food.git
-cd harsh-food
+git clone https://github.com/harshkale612/Harsh-Food.git
+cd Harsh-Food
 
 
 

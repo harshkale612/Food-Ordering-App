@@ -60,7 +60,7 @@ npm install
 npm run dev
 
 
-By default, the app runs at:
+
 
 http://localhost:5173
 

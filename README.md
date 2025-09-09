@@ -58,11 +58,3 @@ npm install
 
 3️⃣ Run the project
 npm run dev
-
-
-
-
-
-
-
-npm run build

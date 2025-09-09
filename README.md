@@ -62,7 +62,7 @@ npm run dev
 
 
 
-http://localhost:5173
+
 
 📦 Build for Production
 npm run build

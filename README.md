@@ -1,6 +1,7 @@
 # Harsh Food
 
 ⚠️ **Important:
+
 If site is unable to load restaurants then please check api changes done by swiggy
 
 ** To avoid **CORS policy errors** while running this project locally,  

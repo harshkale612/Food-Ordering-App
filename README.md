@@ -1,8 +1,13 @@
 # Harsh Food
 
-⚠️ **Important:** To avoid **CORS policy errors** while running this project locally,  
+⚠️ **Important:
+If site is unable to load restaurants then please check api changes done by swiggy
+
+** To avoid **CORS policy errors** while running this project locally,  
 please install and enable the **Allow CORS: Access-Control-Allow-Origin**  browser extention and 
 Make sure it is enabled **before starting the project**.
+
+
 
 ---
 

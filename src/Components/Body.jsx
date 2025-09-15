@@ -76,7 +76,7 @@ const Body = () => {
           <button
             onClick={() => {
               setResList(() =>
-                totalRestaurants.filter((res) => res.info.avgRating > 4.2)
+                totalRestaurants.filter((res) => res.info.avgRating > 4.3)
               );
             }}
             className="px-4 py-2 bg-green-500 text-white font-medium rounded-lg shadow hover:bg-green-600 transition"

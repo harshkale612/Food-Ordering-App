@@ -30,7 +30,7 @@ It provides a clean and responsive UI for browsing food categories, menus, and m
 - **React** (Frontend)
 - **React Router** (Navigation)
 - **Tailwind CSS** (Styling)
-- **Vite / Create React App** (depending on your setup)
+- **Vite** 
 
 ---
 

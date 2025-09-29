@@ -2,7 +2,7 @@
 
 ⚠️ **Important:
 
-If site is unable to load then please check changes in swiggy's api
+If Harsh Foood is unable to load then please check changes in swiggy's api, swiggy might have updated their api.
 
 ** To avoid **CORS policy errors** while running this project locally,  
 please install and enable the **Allow CORS: Access-Control-Allow-Origin**  browser extention and 

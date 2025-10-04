@@ -36,15 +36,16 @@ It provides a clean and responsive UI for browsing food categories, menus, and m
 
 Follow these steps to set up the project on your machine:
 
-### 1️⃣ Clone the repository
+### 
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/harshkale612/Harsh-Food.git
 cd Harsh-Food
 
 
 
-2️⃣ Install dependencies
+# 2️⃣ Install dependencies
 npm install
 
-3️⃣ Run the project
+# 3️⃣ Run the project
 npm run dev

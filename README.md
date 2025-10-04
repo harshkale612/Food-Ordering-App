@@ -18,35 +18,19 @@ It provides a clean and responsive UI for browsing food categories, menus, and m
 ---
 
 ## 🚀 Features
-- 🛒 Grocery Section (Coming Soon)
-- 📌 About Us & Contact Pages
-- 🍲 Restaurant Categories with expandable menus
-- ✅ Online/Offline Status Indicator
-- 🎨 Modern UI with Tailwind CSS
-
+- Shimmer UI
+- Get restaurants by current location from Swiggy API & getting the live data.
+- Display them with Area name, Cuisines Category and Ratings.
+- Search Restaurants by Name.
+- For any restaurant, you can checkout all the different type of dishes available with details and prices per quantity.
+- Filter Top Rated Restuarants.
 ---
 
 ## 🛠️ Tech Stack
 - **React** (Frontend)
 - **React Router** (Navigation)
 - **Tailwind CSS** (Styling)
-- **Vite** 
 
----
-
-## 📂 Project Structure
-
-src/
-│── assets/ # Static images (logo etc.)
-│── components/ # Reusable components (Header, ItemCards, etc.)
-│── pages/ # Page components (About, Grocery, Contact)
-│── utils/ # Custom hooks & utilities
-│── App.jsx # Main app entry
-│── main.jsx # React DOM entry point
-
-
-
----
 
 ## 🏃‍♂️ Run Project Locally
 

@@ -38,14 +38,14 @@ Follow these steps to set up the project on your machine:
 
 ### 
 ```bash
-# 1️⃣ Clone the repository
+#1️. Clone the repository
 git clone https://github.com/harshkale612/Harsh-Food.git
 cd Harsh-Food
 
 
 
-# 2️⃣ Install dependencies
+#2️. Install dependencies
 npm install
 
-# 3️⃣ Run the project
+#3️. Run the project
 npm run dev

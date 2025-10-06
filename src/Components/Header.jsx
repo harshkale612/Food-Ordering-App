@@ -11,7 +11,7 @@ const Header = () => {
     <div className="flex justify-between items-center h-24 w-full max-w-7xl mx-auto px-8 bg-white shadow-md rounded-xl mt-4 sticky top-0 z-50">
       <div className="flex items-center gap-4">
         <img
-          className="h-16 w-16 rounded-xl object-contain"
+          className="h-24 w-24 rounded-xl object-contain"
           src={logo}
           alt="logo"
         />

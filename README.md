@@ -93,5 +93,4 @@ Then open your browser and navigate to the local URL (usually `http://localhost:
 
 
 
-Would you like me to **add a short “Future Enhancements” section** next (for example: “Add authentication, cart system, and online payments”)?
-It looks great in a portfolio README.
+

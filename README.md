@@ -1,5 +1,3 @@
----
-
 # 🍴 Foodify
 
 ⚠️ **Important Note:**
@@ -9,8 +7,6 @@ To avoid **CORS policy errors** while running the project locally:
 
 * Install and enable the **“Allow CORS: Access-Control-Allow-Origin”** browser extension.
 * Make sure it’s **enabled before starting the project**.
-
----
 
 ## 🧠 Overview
 

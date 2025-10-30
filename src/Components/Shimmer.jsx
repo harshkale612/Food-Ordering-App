@@ -1,14 +1,22 @@
 const Shimmer = () => {
   return (
-    <div className="flex flex-wrap gap-6 p-4 justify-center">
-      {Array(15)
-        .fill("")
-        .map((_, index) => (
-          <div
-            key={index}
-            className="w-48 h-72 bg-gray-200 rounded-xl shadow-md animate-pulse"
-          ></div>
-        ))}
+    <div className=" flex flex-wrap gap-5 p-4">
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
+      <div className="w-[200px] h-[300px] cursor-pointer bg-gray-300"></div>
     </div>
   );
 };

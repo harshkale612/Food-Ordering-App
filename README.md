@@ -34,7 +34,7 @@ It provides a clean, responsive, and interactive user experience for browsing re
 | --------------------- | --------------------------------------------------------- |
 | **React.js**          | Component-based frontend library for building UI          |
 | **React Router**      | Handles navigation between different pages                |
-| **Tailwind CSS**      | Utility-first CSS framework for modern, responsive design |
+| **Tailwind CSS**      | Utility-first CSS framework for modern |
 | **Swiggy Public API** | Provides real-time restaurant and menu data               |
 
 ---
@@ -42,7 +42,7 @@ It provides a clean, responsive, and interactive user experience for browsing re
 ## 🧩 Project Highlights
 
 * ⚡ Built with performance in mind using **React’s efficient re-rendering**
-* 🎨 Designed with **Tailwind CSS** for a clean and adaptive UI
+* 🎨 Designed with **Tailwind CSS** for a clean UI
 * 🌐 Handles **live API integration** and asynchronous data fetching
 * 🔁 Implemented **state management** using React hooks (`useState`, `useEffect`)
 * 🧠 Introduced **custom hooks** for logic reusability and cleaner architecture

@@ -45,25 +45,9 @@ It provides a clean, responsive, and interactive user experience for browsing re
 * 🎨 Designed with **Tailwind CSS** for a clean UI
 * 🌐 Handles **live API integration** and asynchronous data fetching
 * 🔁 Implemented **state management** using React hooks (`useState`, `useEffect`)
-* 🧠 Introduced **custom hooks** for logic reusability and cleaner architecture
-* 🚀 Added **lazy loading and code splitting** for faster performance
-* 💬 Added **real-world data handling** and **error management** for API reliability
 
----
 
-## 🎯 Learning Outcomes
 
-Through **Foodify**, I gained hands-on experience in:
-
-* Structuring and optimizing React applications
-* Integrating and handling third-party APIs
-* Implementing **lazy loading** and **code splitting** for performance optimization
-* Creating **custom React hooks** for reusable and maintainable logic
-* Managing UI states, loaders, and conditional rendering
-* Building modular and scalable front-end architecture
-* Styling with **Tailwind CSS** for rapid, modern UI development
-
----
 
 ## 🏃‍♂️ Run Locally
 

@@ -23,8 +23,6 @@ It provides a clean, responsive, and interactive user experience for browsing re
 🔍 **Search** functionality to find restaurants by name
 🧾 Explore **complete restaurant menus** with dish details and pricing
 ⭐ **Filter top-rated restaurants** for better discovery
-✅ **Lazy Loading & Code Splitting**: Improves performance by loading only necessary components, reducing initial load times and boosting responsiveness.
-✅ **Custom Hook**: Implements reusable custom hooks to simplify logic, enhance maintainability, and keep the architecture clean and modular.
 
 ---
 
